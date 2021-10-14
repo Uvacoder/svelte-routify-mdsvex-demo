@@ -5,7 +5,7 @@
 
 <script>
   export let title
-  export let date
+  // export let date
 
   const query = `
     query SITE_METADATA_BLOG {
